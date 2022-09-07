@@ -1,5 +1,7 @@
 # 2020-SIFretrieval
 
+• Sun, Z., Yang, S., Shi, S., & Yang, J. (2021). The Effect of Principal Component Analysis Parameters on Solar-Induced Chlorophyll Fluorescence Signal Extraction. Applied Sciences, 11(11), 4883.
+
 FILE DESCRIPTION:
 
 DataProcess.py: an automatic hyperspectral remote sensing radiance data SIF retrieval pipeline.
